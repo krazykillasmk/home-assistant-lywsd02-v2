@@ -2,6 +2,10 @@
 
 ## Overview
 
+This is a fork of ashald/home-assistant-lywsd02. In v2 version different method of synchronization was added (bleak-retry-connector), detailed logging and HA notifications after successful / failed synchronization. 
+
+Original description: 
+
 This integration allows to configure LYWSD02 e-Ink clocks via HomeAssistant bluetooth integration.
 This means that you can leverage all your ESPHome Bluetooth proxies for best coverage.
 
