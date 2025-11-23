@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a fork of ```text ashald/home-assistant-lywsd02 ```. In v2 version different method of synchronization was added (bleak-retry-connector), detailed logging and HA notifications after successful / failed synchronization. 
+This is a fork of ```ashald/home-assistant-lywsd02```. In v2 version different method of synchronization was added (bleak-retry-connector), detailed logging and HA notifications after successful / failed synchronization. 
 
 Original description: 
 
